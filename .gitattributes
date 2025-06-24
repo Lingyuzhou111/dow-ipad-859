@@ -1,0 +1,2 @@
+lib/wx859/859/linux/wxapi_linux_v1_0_5 filter=lfs diff=lfs merge=lfs -text
+lib/wx859/859/win/wxapi_win64_v1_0_5.exe filter=lfs diff=lfs merge=lfs -text
